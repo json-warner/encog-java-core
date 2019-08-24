@@ -108,6 +108,3 @@ uploadArchives {
   }
 }
 
-task getVersion << {
-  println '3.4.1'
-}
